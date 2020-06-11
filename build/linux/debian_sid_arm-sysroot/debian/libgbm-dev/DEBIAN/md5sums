@@ -1,0 +1,6 @@
+ba874b156fbe42314ff2b947853e490c  usr/include/gbm.h
+7ed524448605bc429de167bc2d3fa9f5  usr/lib/arm-linux-gnueabihf/pkgconfig/gbm.pc
+7f0d95ab544ef194372363bb93229ede  usr/share/bug/libgbm-dev/control
+114f277e413ffae0a725cc024a955b47  usr/share/bug/libgbm-dev/script
+d7b95eb74d762c91e0a1f207434b878b  usr/share/doc/libgbm-dev/changelog.Debian.gz
+8b68944959c818870ee1893cf08437ae  usr/share/doc/libgbm-dev/copyright
